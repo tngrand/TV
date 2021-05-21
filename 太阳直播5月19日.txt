@@ -1,4 +1,3 @@
-台湾▪全网,#genre#
 TVBS新闻,mitv://147.135.39.171:9906/5ea4852100052c6fd83d1a840a5e74b2.ts
 TVBS欢乐,mitv://147.135.39.171:9906/5ea13fd1000849aacb76488073a656f2.ts
 壹综合,mitv://147.135.39.171:9906/5ee385f50006a708ce58bfde6dca70d4.ts
@@ -102,15 +101,6 @@ HITS,mitv://147.135.39.171:9906/5ed1603f0006f0c387755fa818635fdb.ts
 MediacorpU,mitv://147.135.39.171:9906/5ea29be100062894d0c5e6736df27aa0.ts
 MTV,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=202&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 Channel V,rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
-台湾▪外网,#genre#
-〓〓〓〓〓〓〓〓〓,www.关注微信公众号【太阳资讯】免费获取资源.com25
-〔此频道需要外网〕,www.关注微信公众号【太阳资讯】免费获取资源.com26
-〔才可以正常播放〕,www.关注微信公众号【太阳资讯】免费获取资源.com27
-〔关注微信公众号〕,www.关注微信公众号【太阳资讯】免费获取资源.com28
-〔 太阳资讯 〕,www.关注微信公众号【太阳资讯】免费获取资源.com29
-〔回复数字 : 2021〕,www.关注微信公众号【太阳资讯】免费获取资源.com30
-〔获取免费加速器〕,www.关注微信公众号【太阳资讯】免费获取资源.com31
-〓〓〓〓〓〓〓〓〓.,www.关注微信公众号【太阳资讯】免费获取资源.com32
 TVBS综合,tvbus://5khZxPGzFF6DCCCjBW4pivattKmEfaJqf25epZCHUA823V8jt5F6QHJMu4N6z
 TVBS新闻,tvbus://5LFtjMDFSxRdXcHM8iCW5WzgMDKBSJcWtkrKq4dbcpkbL7YrrQTBfypj1MAJB
 TVBS欢乐,tvbus://5iuZdrPxQDmVpNk2RvS5p7U9UMSk1r7CrcjvpP1yzBQjMe6GytF3bDqbiF1vo
@@ -233,5 +223,3 @@ HBO原创,tvbus://6c6yvoNhChui1kDJuVTNne6jdmncQ6BR3BBhPB1dSQKUjmohGqbXJV7G3CGqN
 HBO强档,tvbus://6Kq4EfNGQKVthowXmS7hgdBpnxB5rz2uyd1fURCQiKr9FfdiHU48vH1orek
 HBO家庭,tvbus://5VXd5wEuHpXJUaSUnebQ5q2pR7ECNfLMCxmB9or21JXuffo3tMozVAJGoDw
 FX,tvbus://5mNudv1NY7oPmaoFhPdfh4HbvUVkppCsqHn1wmQPHo2jVYCveHurYcfbfHSQF
-
-
